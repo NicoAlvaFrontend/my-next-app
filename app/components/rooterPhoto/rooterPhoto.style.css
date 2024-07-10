@@ -1,0 +1,11 @@
+.rooterImage-conteiner {
+    padding-bottom: 100px;
+}
+
+.rooterClass {
+    margin: 0 auto;
+    border-radius: 30px;
+    border: 1px;
+    border: solid;
+    border-color: black;
+}

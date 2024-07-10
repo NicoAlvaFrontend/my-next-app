@@ -1,0 +1,8 @@
+.home-information {
+    @apply bg-common-white text-common-black
+}
+
+.home-information-text P{
+    margin: 0 auto;
+    text-align: left;
+}

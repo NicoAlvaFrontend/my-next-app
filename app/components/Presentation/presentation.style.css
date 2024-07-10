@@ -1,0 +1,18 @@
+.presentation {
+    @apply bg-common-white
+}
+
+.presentation-members {
+    justify-items: center;
+
+}
+
+.presentation-members-member {
+    align-content: center;
+    justify-content: center;
+}
+@media (max-width: 1366px) {
+    .members-member-text {
+        padding: 20px;
+    }
+}

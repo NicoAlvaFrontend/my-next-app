@@ -1,0 +1,30 @@
+.swiper-image-complement {
+    height: 100px;
+    width: 300px;
+    border-radius: 0 0 7px 7px;
+    max-width: 194px;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+}
+
+.swiper-image {
+    border-radius:7px 7px 0 0;
+    height: 100px;
+    max-height: 100px;
+}
+
+.swiper-target {
+    border-radius: 10px;
+    max-width: 200px;
+    border: 1px;
+    border: solid;
+    border-color: black;
+    margin: 0 auto;
+}
+
+.swiper-rooter {
+    margin-top: 50px;
+    padding-bottom: 100px;
+}
+

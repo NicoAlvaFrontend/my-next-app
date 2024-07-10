@@ -1,0 +1,9 @@
+.rooterHome {
+    @apply bg-common-white
+}
+
+.rooterHome-text {
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}

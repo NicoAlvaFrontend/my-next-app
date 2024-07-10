@@ -1,0 +1,8 @@
+.utilities {
+    @apply bg-common-white
+}
+
+.utilities-text {
+    margin: 0 auto;
+    padding-bottom: 100px;
+}

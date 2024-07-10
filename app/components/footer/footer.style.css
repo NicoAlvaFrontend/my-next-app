@@ -1,0 +1,10 @@
+.footer {
+    height: 30px;
+    justify-content: center;
+    justify-content: space-around;
+    @apply  bg-primary-cian
+}
+
+.footer-information {
+    font-size: 12px;
+} 

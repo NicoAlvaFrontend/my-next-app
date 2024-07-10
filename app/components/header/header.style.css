@@ -1,0 +1,39 @@
+.header {
+    height: 87px;
+    justify-content: center;
+    @apply bg-primary-cian
+}
+
+.homezHomeLogo {
+    margin-left: 30px;
+}
+
+.header-title-logo {
+    margin-right: 30px;
+}
+
+.header-options {
+    margin-right: 30px;
+}
+
+.tripode{
+    background-color: red;
+}
+
+.header-buttons {
+    align-content: center;
+}
+
+.header-buttons-tripode {
+    margin-right: 15px;
+    padding: 0 10px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.header-buttons-rooter {
+    margin-right: 15px;
+    padding: 0 10px;
+    height: 40px;
+    border-radius: 20px;
+}
