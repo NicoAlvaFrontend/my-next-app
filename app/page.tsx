@@ -2,7 +2,7 @@ import React from "react";
 import type { Metadata } from "next";
 import './home.style.css'
 import { HomeInformation } from "./components/homeInformation/homeInformation";
-import { Presentation } from "./components/Presentation/presentation.component";
+import { Presentation } from "./components/integrantes/presentation.component";
 
 
 export const metadata: Metadata = {
